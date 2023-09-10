@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kyqrcode
+- 👀 I’m interested in ... still trying to figure that out
+- 🌱 I’m currently learning python and C
